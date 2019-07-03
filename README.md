@@ -1,2 +1,2 @@
-# Ngrok-288
+# Ngrok-228
 Ngrok es una herramienta que permite acceder nuestro servidor local a cualquier persona en internet con la que compartamos una url generada dinamicamente , esto es muy útil por ejemplo cuando necesitamos mostrar avances constantemente en sitios que se encuentran en etapa de desarrollo o cuando trabajamos con un equipo de desarrolladores de forma remota .  NGROK nos permite realizar esto sin hacer ninguna configuración extra en el router o firewall simplemente basta con bajar la pequeña aplicación (apenas 3.80mb) y ejecutar un comando desde la terminal :  ngrok http 8080
